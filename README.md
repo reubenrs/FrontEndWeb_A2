@@ -1,5 +1,6 @@
-# FrontEndWeb Assignment 2: Outside the Grid
-## Reuben Sedgmen 
+# 11056-project2
+
+## *u3229829* - Reuben Sedgmen 
 
 This assignment really threw me off at the start. I had initially missed the tutorial where how to begin the task was explained so I was immediately at a disadvantage, however, it was quickly explained and I had everything setup to start writing my webpage. The thing that most confused me was the interconnection of markdown with the usual HTML and CSS documents. When at the start and even well into designing my website I often confused myself over when to use markdown or HTML, especially which HTML page to use as there were multiple for the one webpage.
 
